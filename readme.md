@@ -1,5 +1,7 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+Lab: https://public.tableau.com/views/Lab_W13D1/Feuille2?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
+
 # Lab | Tableau - Manipulating data from multiple sources
 
 For this lab, we will be using the dataset in the Customer Analysis Business Case. This dataset can be found in `files_for_lab` folder.
